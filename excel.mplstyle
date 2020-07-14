@@ -1,0 +1,15 @@
+# VIVE MATPLOTLIB STYLE SHEET
+text.usetex: False
+font.family: Arial
+font.size: 8.0
+axes.spines.top: False
+axes.spines.right: False
+axes.spines.bottom: False
+axes.spines.left: False
+axes.grid: True
+axes.grid.axis: y
+legend.fontsize: 8.0
+legend.framealpha: 1.0
+xtick.labelsize: 8.0
+ytick.labelsize: 8.0
+axes.prop_cycle: cycler('color', ['F94B3A', '0076CE', '00AEB9','C1D4E3','62140E'])
